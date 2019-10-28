@@ -1,5 +1,7 @@
+# <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
-# Monte Carlo Ising Model
+
+#  Monte Carlo Ising Model
 
 
 I have written a code in order to simulate magnetic properties of lattice atoms or molecules in 2-dimension using Ising Model, and determined the Curie temperature for an arbitrary material with the help of the Monte Carlo methods.
